@@ -1,6 +1,7 @@
-# Beginner Python Projects 🎯
+# Python-Beginner-Projects 🎯
 
 This repository contains beginner-level Python projects from my **100 Days of Code** journey.
+Beginner Python projects completed as part of my programming foundation.
 
 ## 🚀 Projects Included
 - **Caesar Cipher** – simple text encryption/decryption.
