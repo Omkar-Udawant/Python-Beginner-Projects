@@ -73,4 +73,5 @@ while not game_is_over:
 scoreboard.game_over()
 
 # wait for click before closing the window
+
 screen.exitonclick()
