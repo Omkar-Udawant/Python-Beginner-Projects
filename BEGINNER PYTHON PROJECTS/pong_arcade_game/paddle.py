@@ -31,3 +31,4 @@ class Paddle(turtle.Turtle):
     def move_down(self):
         """Moves the paddle down."""
         self.backward(MOVE_DISTANCE)
+        
