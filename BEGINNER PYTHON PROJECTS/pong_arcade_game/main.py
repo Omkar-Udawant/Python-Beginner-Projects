@@ -75,3 +75,7 @@ scoreboard.game_over()
 # wait for click before closing the window
 
 screen.exitonclick()
+# wait for click before closing the window
+
+screen.exitonclick()
+
